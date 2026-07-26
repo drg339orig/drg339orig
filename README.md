@@ -78,7 +78,7 @@ Soy un Ingeniero en Ciencias de la Computación radicado en Querétaro, México.
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <a href="https://github.com/tu-usuario-de-github">
+  <a href="https://github.com/drg339orig">
     <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=transparent&hide_border=true&title_color=2671E5&text_color=ffffff&icon_color=2671E5" alt="GitHub Stats" />
   </a>
 </div>
