@@ -2,7 +2,7 @@
 
 ## DevOps Engineer & SR. Technical Lead
 
-Soy un Ingeniero en Ciencias de la Computación radicado en Querétaro, México. Con más de 6 años de experiencia en infraestructura de nube y operaciones, me especializo en entornos AWS, clústeres de Kubernetes, automatización de pipelines CI/CD y despliegue de Infraestructura como Código (IaC). Disfruto liderar equipos técnicos y aprovechar la tecnología para impulsar la innovación y eficiencia del negocio.
+Soy un Ingeniero en Ciencias de la Computación radicado en Querétaro, México. Con más de 6 años de experiencia en infraestructura de nube y operaciones, me especializo en entornos AWS, clústeres de Kubernetes, automatización de pipelines CI/CD y despliegue de Infraestructura como Código (IaC). Disfruto liderar equipos técnicos, construir soluciones Full-Stack y aprovechar la tecnología para impulsar la innovación y eficiencia del negocio.
 
 📫 **Contacto:** [drg339@gmail.com](mailto:drg339@gmail.com) | [LinkedIn](https://www.linkedin.com/in/davidramirez339)
 
@@ -10,7 +10,7 @@ Soy un Ingeniero en Ciencias de la Computación radicado en Querétaro, México.
 
 ### 🛠️ Tecnologías y Herramientas
 
-**Cloud & Containers**
+**Cloud, Networking & Containers**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -20,15 +20,29 @@ Soy un Ingeniero en Ciencias de la Computación radicado en Querétaro, México.
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-ef7b4d?style=for-the-badge&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white)
 
+**Desarrollo, Web & Bases de Datos**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117BAC.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
 **CI/CD & Version Control**
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**Observability & AI Tooling**
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 > *💡 Experiencia integrando agentes de IA (Windsurf, Google Antigravity) para acelerar entregas IaC y automatizaciones Serverless.*
+
+---
+
+### 🚀 Proyectos Independientes
+
+#### **[Cotizalo.net](https://cotizalo.net)** — *Creador & Desarrollador Full-Stack*
+Sistema de cotizaciones en línea diseñado específicamente para microempresas, optimizando sus procesos de venta y facturación.
+- **Backend & Arquitectura:** Desarrollo del núcleo de la aplicación utilizando **Python (Flask)** con bases de datos relacionales en **MySQL**, empaquetando los servicios con **Docker**.
+- **Frontend & Web:** Diseño y construcción de la página principal (Landing Page) utilizando **PHP** y **WordPress**, con interactividad dinámica implementada en **JavaScript**.
+- **Infraestructura & Redes:** Administración de configuraciones **DNS** y aplicación de conceptos avanzados de networking para garantizar la disponibilidad y seguridad del portal.
+- **Integraciones:** Implementación de APIs de terceros para el procesamiento seguro de pagos.
 
 ---
 
@@ -39,7 +53,6 @@ Soy un Ingeniero en Ciencias de la Computación radicado en Querétaro, México.
 - Implementación de Internal Developer Platforms (IDP) utilizando **Crossplane** y **ArgoCD** para la migración de cargas de trabajo en EKS.
 - Uso de agentes de inteligencia artificial para reducir ciclos de desarrollo en scripts de Python y Lambdas aprovisionadas con Terraform.
 - Diseño e implementación de planes de Disaster Recovery (DRP) para asegurar la continuidad del negocio en entornos productivos.
-- Coordinación estratégica con líderes de Desarrollo, Seguridad, QA y Networking.
 
 #### **SPIN** — *Sr. DevOps* (Feb 2023 - Nov 2023)
 - Optimización de flujos CI/CD mediante **Bitbucket** y **GitHub Actions**, reduciendo tiempos y fallas en el despliegue de microservicios.
